@@ -1,0 +1,147 @@
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\bin\Debug\moviemanagement.exe
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\bin\Debug\moviemanagement.pdb
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\bin\Debug\moviemanagement.xml
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Login.resources
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.MainMenu1.resources
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.member.resources
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.price1.resources
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Register.resources
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Reset.resources
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.seat1.resources
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.movie.resources
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.sched.resources
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Staffmanagement.resources
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.ticket.resources
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Resources.resources
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.exe
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.xml
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.pdb
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Forgetpassword.resources
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.SplashScreen1.resources
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.ReportGeneration.resources
+d:\users data\admin\documents\visual studio 2010\Projects\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.ticketformat.resources
+F:\moviemanagement\moviemanagement\bin\Debug\moviemanagement.exe
+F:\moviemanagement\moviemanagement\bin\Debug\moviemanagement.pdb
+F:\moviemanagement\moviemanagement\bin\Debug\moviemanagement.xml
+F:\moviemanagement\moviemanagement\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Forgetpassword.resources
+F:\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.ReportGeneration.resources
+F:\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Login.resources
+F:\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.MainMenu1.resources
+F:\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.member.resources
+F:\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.price1.resources
+F:\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Register.resources
+F:\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Reset.resources
+F:\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.seat1.resources
+F:\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.movie.resources
+F:\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.sched.resources
+F:\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.SplashScreen1.resources
+F:\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Staffmanagement.resources
+F:\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.ticket.resources
+F:\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Resources.resources
+F:\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.ticketformat.resources
+F:\moviemanagement\moviemanagement\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\moviemanagement\moviemanagement\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.exe
+F:\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.xml
+F:\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.pdb
+C:\Users\user\Desktop\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.exe
+C:\Users\user\Desktop\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.xml
+C:\Users\user\Desktop\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.pdb
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.exe
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.xml
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.pdb
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\bin\Debug\moviemanagement.exe
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\bin\Debug\moviemanagement.pdb
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\bin\Debug\moviemanagement.xml
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Forgetpassword.resources
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.ReportGeneration.resources
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Login.resources
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.MainMenu1.resources
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.member.resources
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.price1.resources
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Register.resources
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Reset.resources
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.seat1.resources
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.movie.resources
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.sched.resources
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.SplashScreen1.resources
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Staffmanagement.resources
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.ticket.resources
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Resources.resources
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.ticketformat.resources
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\Benig\moviemanagement\moviemanagement\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.exe
+D:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.xml
+D:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.pdb
+D:\Benig\moviemanagement\moviemanagement\bin\Debug\moviemanagement.exe
+D:\Benig\moviemanagement\moviemanagement\bin\Debug\moviemanagement.pdb
+D:\Benig\moviemanagement\moviemanagement\bin\Debug\moviemanagement.xml
+D:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Forgetpassword.resources
+D:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.ReportGeneration.resources
+D:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Login.resources
+D:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.MainMenu1.resources
+D:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.member.resources
+D:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.price1.resources
+D:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Register.resources
+D:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Reset.resources
+D:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.seat1.resources
+D:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.movie.resources
+D:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.sched.resources
+D:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.SplashScreen1.resources
+D:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Staffmanagement.resources
+D:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.ticket.resources
+D:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Resources.resources
+D:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.ticketformat.resources
+D:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.exe
+F:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.xml
+F:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.pdb
+F:\Benig\moviemanagement\moviemanagement\bin\Debug\moviemanagement.exe
+F:\Benig\moviemanagement\moviemanagement\bin\Debug\moviemanagement.pdb
+F:\Benig\moviemanagement\moviemanagement\bin\Debug\moviemanagement.xml
+F:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Forgetpassword.resources
+F:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.ReportGeneration.resources
+F:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Login.resources
+F:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.MainMenu1.resources
+F:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.member.resources
+F:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.price1.resources
+F:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Register.resources
+F:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Reset.resources
+F:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.seat1.resources
+F:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.movie.resources
+F:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.sched.resources
+F:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.SplashScreen1.resources
+F:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Staffmanagement.resources
+F:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.ticket.resources
+F:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Resources.resources
+F:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.ticketformat.resources
+F:\Benig\moviemanagement\moviemanagement\obj\x86\Debug\software project.vbproj.GenerateResource.Cache
+C:\Users\benig\Desktop\vb assignment\moviemanagement\moviemanagement\obj\x86\Debug\software project.vbprojAssemblyReference.cache
+C:\Users\benig\Desktop\vb assignment\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Forgetpassword.resources
+C:\Users\benig\Desktop\vb assignment\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.ReportGeneration.resources
+C:\Users\benig\Desktop\vb assignment\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Login.resources
+C:\Users\benig\Desktop\vb assignment\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.MainMenu1.resources
+C:\Users\benig\Desktop\vb assignment\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.member.resources
+C:\Users\benig\Desktop\vb assignment\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.price1.resources
+C:\Users\benig\Desktop\vb assignment\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Register.resources
+C:\Users\benig\Desktop\vb assignment\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Reset.resources
+C:\Users\benig\Desktop\vb assignment\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.seat1.resources
+C:\Users\benig\Desktop\vb assignment\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.movie.resources
+C:\Users\benig\Desktop\vb assignment\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.sched.resources
+C:\Users\benig\Desktop\vb assignment\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.SplashScreen1.resources
+C:\Users\benig\Desktop\vb assignment\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Staffmanagement.resources
+C:\Users\benig\Desktop\vb assignment\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.ticket.resources
+C:\Users\benig\Desktop\vb assignment\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.Resources.resources
+C:\Users\benig\Desktop\vb assignment\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.ticketformat.resources
+C:\Users\benig\Desktop\vb assignment\moviemanagement\moviemanagement\obj\x86\Debug\software project.vbproj.GenerateResource.cache
+C:\Users\benig\Desktop\vb assignment\moviemanagement\moviemanagement\obj\x86\Debug\software project.vbproj.CoreCompileInputs.cache
+C:\Users\benig\Desktop\vb assignment\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.xml
+C:\Users\benig\Desktop\vb assignment\moviemanagement\moviemanagement\obj\x86\Debug\moviemanagement.pdb
